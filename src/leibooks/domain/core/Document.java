@@ -50,7 +50,7 @@ public class Document implements IDocument {
 	@Override
 	public String getTitle() {
 		// TODO Auto-generated method stub
-		return "para modificar";
+		return null;
 	}
 
 	@Override
